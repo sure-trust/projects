@@ -1,10 +1,10 @@
 [
   {
-    "title": "JavaScript Algorithms",
-    "repo_link": "https://github.com/trekhleb/javascript-algorithms",
-    "author": "trekhleb",
-    "description": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings.",
-    "language": "JavaScript"
+    "title": "NGO-eduation platform",
+    "repo_link": "https://github.com/thejasree-24/NGO_MernEducation",
+    "author": "thejasree-24",
+    "description": "mern stack ngo education platform with chatbot and admin dashboard and landing page to see the all the available courses",
+    "language": "JavaScript", "CSS", "HTML"
   },
   {
     "title": "You Don't Know JS Yet",
