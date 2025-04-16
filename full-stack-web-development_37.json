@@ -3,7 +3,8 @@
     "title": "NGO-eduation platform",
     "repo_link": "https://github.com/thejasree-24/NGO_MernEducation",
     "author": "thejasree-24",
-    "description": "mern stack ngo education platform with chatbot and admin dashboard and landing page to see the all the available courses"
+    "description": "mern stack ngo education platform with chatbot and admin dashboard and landing page to see the all the available courses",
+    "language": ["JavaScript", "CSS", "HTML"]
   },
   {
     "title": "You Don't Know JS Yet",
